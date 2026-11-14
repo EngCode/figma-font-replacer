@@ -1,1 +1,6 @@
-plan.md
+/plan.md
+node_modules/
+dist/
+*.log
+.DS_Store
+coverage/

@@ -1,0 +1,15 @@
+{
+  "name": "Font Swap",
+  "id": "1430823941283542859",
+  "api": "1.0.0",
+  "main": "dist/plugin.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "permissions": [],
+  "capabilities": [],
+  "enableProposedApi": false
+}
